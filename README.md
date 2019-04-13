@@ -17,3 +17,11 @@ Install formulae with
 ```shell
 brew install <formula name>
 ```
+
+## Available formulae
+
+Individual formulae have their own repos.
+
+Name | Repo
+---|---
+homebrew-script-demo | <https://github.com/olets/homebrew-script-demo>
